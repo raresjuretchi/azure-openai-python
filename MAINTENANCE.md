@@ -4,4 +4,5 @@ Updated automatically once a week by the *Weekly maintenance* workflow.
 
 | Date | Dependencies | Tests |
 |---|---|---|
+| 2026-10-26 | All 4 pinned packages current | ✅ 10 passed |
 | 2026-10-23 | All 4 pinned packages current | ✅ 10 passed |

@@ -74,7 +74,7 @@ The tests fake the client, so they run offline without an Azure subscription.
 A scheduled workflow checks the pinned dependencies once a week at a random time, bumps them when the tests still pass and records the result in [MAINTENANCE.md](MAINTENANCE.md).
 
 <!-- maintenance:start -->
-**Last maintenance:** 2026-10-23 · All 4 pinned packages current · tests ✅ 10 passed
+**Last maintenance:** 2026-10-26 · All 4 pinned packages current · tests ✅ 10 passed
 <!-- maintenance:end -->
 
 ## License
