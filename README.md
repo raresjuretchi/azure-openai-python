@@ -74,7 +74,7 @@ The tests fake the client, so they run offline without an Azure subscription.
 A scheduled workflow checks the pinned dependencies once a week at a random time, bumps them when the tests still pass and records the result in [MAINTENANCE.md](MAINTENANCE.md).
 
 <!-- maintenance:start -->
-**Last maintenance:** 2026-10-26 · All 4 pinned packages current · tests ✅ 10 passed
+**Last maintenance:** 2026-11-02 · Updated openai 3.37.0 → 3.42.1, azure-identity 1.26.0 → 1.27.0, pytest 9.1.1 → 9.2.0 · tests ✅ 10 passed
 <!-- maintenance:end -->
 
 ## License
